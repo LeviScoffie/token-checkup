@@ -1,0 +1,8 @@
+
+# CoinPaprika API
+
+'https://api.coinpaprika.com/v1/coins'
+
+# Dune Spellbook PR 
+
+https://github.com/duneanalytics/spellbook/pull/2279
